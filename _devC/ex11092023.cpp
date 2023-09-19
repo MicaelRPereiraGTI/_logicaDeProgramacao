@@ -10,7 +10,7 @@ int main(){
 	c = a;
 	a = b;
 	b = c;
-	printf("Valor de A= %i e o valor de B = %i", a, b);
+	printf("Valor de A = %i e o valor de B = %i", a, b);
 	return 0;
 	
 }
